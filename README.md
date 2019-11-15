@@ -1,1 +1,1 @@
-# mcgillflyingclub.github.io
+# McGill Biodesign Website
